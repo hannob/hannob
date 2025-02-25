@@ -17,8 +17,8 @@ with known vulnerabilities.
 
 # newsletter / cleantech
 
-I am publishing the Industry Decarbonization
-Newsletter](https://industrydecarbonization.com/) about cleantech and climate solutions.
+I am publishing the [Industry Decarbonization Newsletter](https://industrydecarbonization.com/)
+about cleantech and climate solutions.
 
 Here are some recent articles published there you may find interesting:
 
